@@ -10,6 +10,7 @@
   },
   "homepage": "https://www.cookcook.app",
   "repository": "https://github.com/cookcook-app/claude-cookcook-plugin",
+  "license": "MIT",
   "keywords": [
     "cookbooks",
     "recipes",
