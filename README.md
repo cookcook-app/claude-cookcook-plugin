@@ -48,8 +48,9 @@ catalogue as a plain connector: `https://www.cookcook.app/api/mcp`.
 - `.claude-plugin/marketplace.json`: makes this repository a marketplace with
   one plugin in it.
 - `.mcp.json`: the CookCook connector, `https://www.cookcook.app/api/mcp/me`.
-- `skills/`: when to use which CookCook tool, how to read a shelf photo, and
-  how to capture a recipe from a photographed page.
+- `skills/`: when to use which CookCook tool, how to plan a menu from your
+  cookbooks, how to read a shelf photo, and how to capture a recipe from a
+  photographed page.
 
 - Website: https://www.cookcook.app
 - Privacy: https://www.cookcook.app/privacy
