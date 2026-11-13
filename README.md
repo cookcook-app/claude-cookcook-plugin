@@ -54,4 +54,6 @@ catalogue as a plain connector: `https://www.cookcook.app/api/mcp`.
 
 - Website: https://www.cookcook.app
 - Privacy: https://www.cookcook.app/privacy
+- Terms: https://www.cookcook.app/terms
+- Support: https://www.cookcook.app/support
 - Questions: support@cookcook.app

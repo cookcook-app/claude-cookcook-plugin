@@ -19,5 +19,7 @@
     "library"
   ],
   "icon": "./assets/icon.png",
-  "privacyPolicyUrl": "https://www.cookcook.app/privacy"
+  "supportUrl": "https://www.cookcook.app/support",
+  "privacyPolicyUrl": "https://www.cookcook.app/privacy",
+  "termsOfServiceUrl": "https://www.cookcook.app/terms"
 }
