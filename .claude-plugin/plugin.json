@@ -1,0 +1,22 @@
+{
+  "name": "cookcook",
+  "displayName": "CookCook",
+  "version": "1.0.0",
+  "description": "Cook from the cookbooks on your own shelf. Find which book has the recipe you want, look inside a book's index, keep your library, saved recipes and grocery list, add books from a photo of your bookshelf, and capture a recipe from a photo of the page.",
+  "author": {
+    "name": "Toy Division",
+    "email": "support@cookcook.app",
+    "url": "https://www.cookcook.app"
+  },
+  "homepage": "https://www.cookcook.app",
+  "repository": "https://github.com/cookcook-app/claude-cookcook-plugin",
+  "keywords": [
+    "cookbooks",
+    "recipes",
+    "cooking",
+    "grocery-list",
+    "library"
+  ],
+  "icon": "./assets/icon.png",
+  "privacyPolicyUrl": "https://www.cookcook.app/privacy"
+}

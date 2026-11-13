@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cookcook": {
+      "type": "http",
+      "url": "https://www.cookcook.app/api/mcp/me"
+    }
+  }
+}

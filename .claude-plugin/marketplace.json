@@ -1,0 +1,16 @@
+{
+  "name": "cookcook",
+  "description": "CookCook: cook from the cookbooks on your own shelf.",
+  "owner": {
+    "name": "Toy Division",
+    "email": "support@cookcook.app",
+    "url": "https://www.cookcook.app"
+  },
+  "plugins": [
+    {
+      "name": "cookcook",
+      "source": "./",
+      "description": "Find which cookbook has the recipe you want, keep your library, saved recipes and grocery list, add books from a photo of your bookshelf, and capture a recipe from a photo of the page."
+    }
+  ]
+}
